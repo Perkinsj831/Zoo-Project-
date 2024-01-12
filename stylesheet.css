@@ -1,0 +1,13 @@
+img {
+    width: 100px;
+    length: 100px;
+}
+
+header {
+    font-size: 35px;
+    font-style: cursive;
+    color: chartreuse;
+    border: 10px;
+    border-style: groove;
+    border-color: blueviolet;
+}
